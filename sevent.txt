@@ -1,0 +1,2 @@
+Hello my name is Amit kuamr 
+ This is a sevent.txtfile i am learn git commit view command .
